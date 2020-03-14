@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">駅一覧アプリ</string>
+    <string name="title_lineSearchActivity">路線の頭文字を選択してください</string>
+    <string name="a">あ</string>
+</resources>
